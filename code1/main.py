@@ -1,5 +1,8 @@
 from app import create_app
 
 if __name__ == '__main__':
-    app = create_app("development")
-    app.run(port=7788)
+    # 创建flask对象
+    app = create_app()
+    # 启动
+    app.run()
+    num1 = 10 
