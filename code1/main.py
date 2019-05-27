@@ -9,4 +9,5 @@ if __name__ == '__main__':
 num2=0
 j=9
 c = 2
+num3 = 30
 
