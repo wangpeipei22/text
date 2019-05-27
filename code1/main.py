@@ -8,3 +8,5 @@ if __name__ == '__main__':
     num1 = 10 
 num2=0
 j=9
+c = 2
+
